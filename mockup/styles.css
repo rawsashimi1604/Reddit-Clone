@@ -1,0 +1,123 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif !important;
+  background-color: rgb(240, 240, 240);
+}
+
+.logo-text {
+  margin-left: -0.8em !important;
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.nav-home-drop {
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+.nav-home-drop:hover {
+  background-color: rgb(226, 226, 226);
+}
+
+.nav-home {
+  margin-right: 0.1em;
+  padding-bottom: 0.3em;
+  height: 80%;
+  width: 8%;
+}
+
+.nav-home-text {
+  padding-right: 9em;
+  font-size: 140%;
+  font-weight: 300;
+}
+
+.nav-search {
+  height: 90%;
+  width: 120%;
+  margin-right: 1em;
+}
+
+.nav-search input {
+  font-size: 1.25rem !important;
+}
+
+.nav-posts {
+  margin-right: 2em;
+  border-right: 1px solid rgb(196, 196, 196);
+}
+
+.nav-posts a {
+  margin-right: 1.2em;
+  padding: 0.6em;
+}
+
+.nav-posts a:hover {
+  transition: 0.4s;
+  background-color: rgb(196, 196, 196);
+}
+
+.nav-notis {
+  margin-right: 1em;
+  border-right: 1px solid rgb(196, 196, 196);
+}
+
+.nav-notis a {
+  margin-right: 1.2em;
+  padding: 0.6em;
+}
+
+.nav-notis a:hover {
+  transition: 0.4s;
+  background-color: rgb(196, 196, 196);
+}
+
+.nav-free {
+  margin-right: 2em;
+}
+
+.nav-coin {
+  padding-right: 0.4em;
+}
+
+.nav-button-container {
+  width: 150%;
+}
+
+.nav-button {
+  width: 120%;
+  border-radius: 25px;
+  background-color: rgb(235, 219, 51);
+  box-shadow: 0px 2px 5px rgb(235, 219, 51);
+}
+
+.nav-button:hover {
+  background-color: rgb(168, 157, 38);
+  box-shadow: 0px 2px 5px rgb(168, 157, 38);
+}
+
+.nav-button img {
+  margin-right: 0.3em;
+}
+
+.nav-user-drop {
+  border-radius: 5px;
+  padding-left: 0;
+}
+
+.nav-user-drop:hover {
+  background-color: rgb(226, 226, 226);
+}
+.nav-user {
+  margin-right: 0.1em;
+  padding-bottom: 0.3em;
+  height: 80%;
+  width: 8%;
+}
+
+.nav-user-text {
+  margin-left: -0.2em;
+  padding-right: 8em;
+  font-size: 140%;
+  font-weight: 300;
+}

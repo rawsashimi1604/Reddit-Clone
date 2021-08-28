@@ -40,12 +40,12 @@ body {
 }
 
 .nav-posts {
-  margin-right: 2em;
+  margin-right: 0.5em;
 }
 
 .nav-posts a {
-  margin-right: 1.2em;
-  padding: 0.6em;
+  margin-right: 1em;
+  padding: 0.4em;
 }
 
 .nav-posts a:hover {
@@ -54,7 +54,7 @@ body {
 }
 
 .nav-notis {
-  margin-right: 1em;
+  margin-right: 0.2em;
 }
 
 .nav-border {
@@ -62,8 +62,8 @@ body {
 }
 
 .nav-notis a {
-  margin-right: 1.2em;
-  padding: 0.6em;
+  margin-right: 1em;
+  padding: 0.4em;
 }
 
 .nav-notis a:hover {
@@ -73,6 +73,7 @@ body {
 
 .nav-free {
   width: 200px;
+  padding: 0;
 }
 
 .nav-coin {

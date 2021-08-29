@@ -28,6 +28,7 @@ body {
 .nav-home-text {
   font-size: 140%;
   font-weight: 300;
+  flex-grow: 1;
 }
 
 .nav-search {

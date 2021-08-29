@@ -1,0 +1,39 @@
+#create {
+  margin-top: 1rem;
+  background-color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.create-post {
+  background-color: rgba(230, 230, 230, 0.513);
+  padding: 0.6rem 1.3rem;
+  flex-grow: 0.9;
+  color: grey;
+  margin-right: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid white;
+}
+
+.create-post:hover {
+  border: 1px solid rgb(72, 72, 255);
+  box-sizing: border-box;
+  background: white;
+  cursor: text;
+}
+
+#create img {
+  width: 34px;
+  padding: 0.1rem 0.3rem;
+}
+
+#create img:last-child {
+  margin-right: 0;
+}
+
+#create img:hover {
+  background: rgba(128, 128, 128, 0.267);
+  border-radius: 5px;
+  transition: background 0.3s;
+  cursor: pointer;
+}

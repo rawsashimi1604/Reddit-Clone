@@ -1,0 +1,69 @@
+#post-sorter {
+  margin-top: 1rem;
+  background-color: white;
+  padding: 0.7rem 1rem;
+  border-radius: 5px;
+}
+
+#post-sorter a {
+  background: rgba(128, 128, 128, 0.05);
+  display: flex;
+  margin-right: 1rem;
+  border-radius: 2rem;
+  padding: 0.3rem 0.5rem;
+  font-size: 90%;
+  align-items: center;
+  padding-right: 0.9rem;
+  color: grey;
+  text-decoration: none;
+}
+
+#post-sorter img {
+  width: 34px;
+  margin-right: 0.3rem;
+  padding: 0.1rem 0.3rem;
+}
+
+#post-sorter .post-dots {
+  background-color: rgba(128, 128, 128, 0.05);
+  border-radius: 100%;
+  padding: 0.1rem 0.6rem;
+}
+
+#post-sorter .post-best img {
+  filter: invert(54%) sepia(61%) saturate(5840%) hue-rotate(195deg)
+    brightness(105%) contrast(101%);
+}
+
+#post-sorter .post-best {
+  background: rgba(128, 128, 128, 0.09);
+  color: #1e90ff;
+  font-weight: 900;
+}
+
+#post-sorter a:hover {
+  cursor: pointer;
+  background: rgba(128, 128, 128, 0.09);
+}
+
+#post-sorter .post-dots:hover {
+  cursor: pointer;
+  background: rgba(128, 128, 128, 0.09);
+}
+
+#post-sorter .post-best:hover {
+  background: rgba(128, 128, 128, 0.15);
+}
+
+#post-sorter .post-display {
+  margin-right: 0;
+}
+
+#post-sorter .post-display:first-child {
+  margin-right: 0;
+  padding-right: 0.1rem;
+}
+
+#post-sorter .post-display:hover {
+  background: rgba(148, 88, 88, 0.09);
+}
